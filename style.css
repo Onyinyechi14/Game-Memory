@@ -11,8 +11,8 @@ body{
 
 .wrapper{
     box-sizing: content-box;
-    width: 21.87em;
-    padding: 2.5em 3em;
+    width: 24.87em;
+    padding: 1.0em 2.7em;
     background-color: aliceblue;
     position: absolute;
     transform: translate(-50%, -50%);
@@ -44,8 +44,9 @@ body{
 .card-container{
     position: relative;
     width: 6.25em;
-    height: 6.25em;
+    height: 5.25em;
     cursor: pointer;
+    margin-right: -10px;
 }
 
 .card-before,
